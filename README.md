@@ -1,3 +1,4 @@
+
 # JavaScript Interactive Web Pages Assignment (React Version)
 
 ## Project Overview
@@ -77,7 +78,7 @@ Welcome Bernard to the Frontend Development course.
 
 ### Screenshot
 
-![Part 1 Screenshot](part1_console.png)
+<img src="part1_console.png" width="700" height="700" alt="Part 1 Screenshot">
 
 ---
 
@@ -99,7 +100,7 @@ JavaScript is controlling this page!
 
 ### Screenshot
 
-![Part 2 Screenshot](part2_dom.png)
+<img src="part2_dom.png" width="700" height="700" alt="Part 2 Screenshot">
 
 ---
 
@@ -115,7 +116,7 @@ You clicked the button!
 
 ### Screenshot
 
-![Part 3 Screenshot](part3_event.png)
+<img src="part3_event.png" width="700" height="700" alt="Part 3 Screenshot">
 
 ---
 
@@ -142,7 +143,7 @@ Division = 2
 
 ### Screenshot
 
-![Part 4 Screenshot](part4_calculator.png)
+<img src="part4_calculator.png" width="700" height="700" alt="Part 4 Screenshot">
 
 ---
 
@@ -165,7 +166,7 @@ Completed tasks appear with a **line-through style**.
 
 ### Screenshot
 
-![Part 5 Screenshot](part5_todo.png)
+<img src="part5_todo.png" width="700" height="700" alt="Part 5 Screenshot">
 
 ---
 
@@ -176,4 +177,3 @@ Completed tasks appear with a **line-through style**.
 **Course:** Frontend Development
 **Institution:** Rwanda Polytechnic – Tumba College
 
-```
